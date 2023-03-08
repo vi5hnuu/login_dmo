@@ -19,7 +19,8 @@
   padding: 3.5rem;
 }
 
-.login-control {
+/* Refactored to input component */
+/* .login-control {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -45,7 +46,7 @@
 .invalid,
 .invalid:focus {
   border-bottom: 3px solid #f00 !important;
-}
+} */
 
 .login-action {
   display: flex;
